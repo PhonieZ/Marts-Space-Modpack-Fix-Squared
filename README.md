@@ -7,5 +7,5 @@ https://drive.google.com/drive/folders/1L7nR6jZ-oKEEQwB0jM6bKN9Agnnm3Mj_?usp=sha
 Finally, big credits to Slikk for making the Seoh fix:
 https://mods.factorio.com/mod/martincitopants-space-modpack-seoh-fixed
 
-And also, big credits to NikoMew for making the original modpack, without which the Seoh fix, and this fix, wouldn't have existed, without NikoMew's great effort:
+And also, big credits to NikoMew for making the original modpack, without which the Seoh fix, and this fix, wouldn't have existed without them:
 https://mods.factorio.com/mod/martincitopants-space-modpack
