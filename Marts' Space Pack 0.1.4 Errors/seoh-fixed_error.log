@@ -1,0 +1,387 @@
+   0.000 2022-07-10 11:38:40; Factorio 1.1.61 (build 59839, win64, steam)
+   0.001 Operating system: Windows 10 (build 19044) 
+   0.001 Program arguments: "C:\Program Files (x86)\Steam\steamapps\common\Factorio\bin\x64\Factorio.exe" "--wait-to-close" "44108" 
+   0.001 Read data path: C:/Program Files (x86)/Steam/steamapps/common/Factorio/data
+   0.001 Write data path: C:/Users/phoni/AppData/Roaming/Factorio [547539/1952624MB]
+   0.001 Binaries path: C:/Program Files (x86)/Steam/steamapps/common/Factorio/bin
+   0.008 System info: [CPU: AMD Ryzen 9 3900X 12-Core Processor, 24 cores, RAM: 11977/32686 MB, page: 19194/37550 MB, virtual: 4333/134217727 MB, extended virtual: 0 MB]
+   0.008 Display options: [FullScreen: 1] [VSync: 0] [UIScale: custom (200.0%)] [Native DPI: 1] [Screen: 255] [Special: lmw] [Lang: en]
+   0.016 Available displays: 1
+   0.016  [0]: \\.\DISPLAY1 - AMD Radeon RX 5700 XT {0x80005, [0,0], 3840x2160, 32bit, 59Hz}
+   0.056 [Direct3D11] Display: 0, Output: 0, DisplayAdapter: 0, RenderingAdapter: 0; d3dcompiler_47.dll
+   0.136 Initialised Direct3D[0]: AMD Radeon RX 5700 XT; id: 1002-731f; driver: aticfx64.dll 30.0.15002.1004
+   0.136   D3D Feature Level: 11.1, DXGI 1.5+, SwapChain: 3,flip-discard,-,-,-,none
+   0.136   [Local Video Memory] Budget: 7383MB, CurrentUsage: 0MB, Reservation: 0/3819MB
+   0.136   [Non-Local Vid.Mem.] Budget: 15575MB, CurrentUsage: 0MB, Reservation: 0/7915MB
+   0.136   Tiled resources: Tier 2
+   0.136   Unified Memory Architecture: No
+   0.137   BGR 565 Supported: Yes
+   0.137   MaximumFrameLatency: 3, GPUThreadPriority: 0
+   0.138 Graphics settings preset: very-high
+   0.138   Dedicated video memory size 8151 MB
+   0.196 Desktop composition is active.
+   0.196 Graphics options: [Graphics quality: high] [Video memory usage: high] [DXT: high-quality] [Color: 32bit]
+   0.196                   [Max threads (load/render): 32/8] [Max texture size: 0] [Tex.Stream.: 1] [Rotation quality: normal] [Other: STDCWT] [B:43,C:-12,S:100]
+   0.269 DSound: Starting _dsound_update thread
+   0.269 [Audio] Backend:default; Depth:16, Channel:2, Frequency:44100; MixerQuality:linear
+   0.269 DSound: Enter _dsound_update; tid=24916
+   0.522 Loading mod settings GDIW 1.1.0 (settings.lua)
+   0.522 Loading mod settings aai-containers 0.2.11 (settings.lua)
+   0.522 Loading mod settings aai-vehicles-miner 0.6.4 (settings.lua)
+   0.522 Loading mod settings actual-craft-times-remade 1.0.6 (settings.lua)
+   0.523 Loading mod settings AutoDeconstruct 0.3.3 (settings.lua)
+   0.523 Loading mod settings boblibrary 1.1.5 (settings.lua)
+   0.523 Loading mod settings deadlock-beltboxes-loaders 2.4.2 (settings.lua)
+   0.523 Loading mod settings Enhanced_Map_Colors 1.5.5 (settings.lua)
+   0.524 Loading mod settings even-distribution 1.0.10 (settings.lua)
+   0.524 Loading mod settings ezlib 0.1.7 (settings.lua)
+   0.524 Loading mod settings Factorissimo2 2.5.3 (settings.lua)
+   0.524 Loading mod settings Fill4Me 0.10.0 (settings.lua)
+   0.525 Loading mod settings flib 0.10.1 (settings.lua)
+   0.525 Loading mod settings Flow Control 3.1.3 (settings.lua)
+   0.525 Loading mod settings GunEquipment 0.0.16 (settings.lua)
+   0.525 Loading mod settings helmod 0.12.9 (settings.lua)
+   0.526 Loading mod settings Honk 5.0.0 (settings.lua)
+   0.527 Loading mod settings Induction Charging 2.0.2 (settings.lua)
+   0.527 Loading mod settings informatron 0.2.2 (settings.lua)
+   0.528 Loading mod settings jetpack 0.3.5 (settings.lua)
+   0.528 Loading mod settings Nightfall 1.1.1 (settings.lua)
+   0.528 Loading mod settings Nova-Natural_Evolution_Enemies 1.1.1 (settings.lua)
+   0.529 Loading mod settings Portals 0.7.1 (settings.lua)
+   0.529 Loading mod settings Power Armor MK3 0.4.1 (settings.lua)
+   0.529 Loading mod settings Quicksearch 1.1.1 (settings.lua)
+   0.530 Loading mod settings RampantArsenal 1.1.6 (settings.lua)
+   0.530 Loading mod settings robot_attrition 0.5.12 (settings.lua)
+   0.531 Loading mod settings SchallEndgameEvolution 1.1.1 (settings.lua)
+   0.531 Loading mod settings Squeak Through 1.8.2 (settings.lua)
+   0.532 Loading mod settings stasis_mine 20.0.3 (settings.lua)
+   0.532 Loading mod settings Todo-List 19.2.0 (settings.lua)
+   0.532 Loading mod settings VehicleSnap 1.18.4 (settings.lua)
+   0.533 Loading mod settings aai-industry 0.5.19 (settings.lua)
+   0.534 Loading mod settings aai-programmable-structures 0.7.4 (settings.lua)
+   0.534 Loading mod settings alien-biomes 0.6.7 (settings.lua)
+   0.535 Loading mod settings cargo-ships 0.1.18 (settings.lua)
+   0.535 Loading mod settings combat-mechanics-overhaul 0.6.22 (settings.lua)
+   0.536 Loading mod settings deadlock-integrations 2.2.0 (settings.lua)
+   0.536 Loading mod settings EndgameCombat 1.105.1 (settings.lua)
+   0.537 Loading mod settings equipment-gantry 0.1.5 (settings.lua)
+   0.537 Loading mod settings StatsGui 1.4.1 (settings.lua)
+   0.538 Loading mod settings aai-programmable-vehicles 0.7.21 (settings.lua)
+   0.539 Loading mod settings ArmouredBiters 1.1.5 (settings.lua)
+   0.539 Loading mod settings space-exploration 0.6.73 (settings.lua)
+   0.540 Loading mod settings Kux-OrbitalIonCannon 2.3.0 (settings.lua)
+   0.540 Loading mod settings QuickItemSearch 2.1.4 (settings.lua)
+   0.541 Loading mod settings SE-PFR-fix 0.0.11 (settings.lua)
+   0.542 Loading mod settings se-recycling-extras 0.4.0 (settings.lua)
+   0.542 Loading mod settings space-exploration-menu-simulations 0.6.7 (settings.lua)
+   0.543 Loading mod settings space-exploration-postprocess 0.6.14 (settings.lua)
+   0.544 Loading mod settings YARM 0.8.207 (settings.lua)
+   0.544 Loading mod settings RateCalculator 2.4.4 (settings.lua)
+   0.545 Loading mod settings se-science-scale 0.19.0 (settings.lua)
+   0.545 Loading mod settings seoh-fixed 0.2.4 (settings.lua)
+   0.546 Loading mod settings cargo-ships 0.1.18 (settings-updates.lua)
+   0.547 Loading mod settings AutoDeconstruct 0.3.3 (settings-final-fixes.lua)
+   0.555 Loading mod core 0.0.0 (data.lua)
+   0.597 Loading mod base 1.1.61 (data.lua)
+   0.774 Loading mod GDIW 1.1.0 (data.lua)
+   0.787 Loading mod aai-containers 0.2.11 (data.lua)
+   0.806 Loading mod aai-signal-transmission 0.4.7 (data.lua)
+   0.818 Loading mod aai-signals 0.6.1 (data.lua)
+   0.827 Loading mod aai-vehicles-chaingunner 0.6.1 (data.lua)
+   0.837 Loading mod aai-vehicles-flame-tank 0.5.1 (data.lua)
+   0.846 Loading mod aai-vehicles-flame-tumbler 0.6.1 (data.lua)
+   0.853 Loading mod aai-vehicles-hauler 0.6.1 (data.lua)
+   0.860 Loading mod aai-vehicles-laser-tank 0.6.4 (data.lua)
+   0.868 Loading mod aai-vehicles-miner 0.6.4 (data.lua)
+   0.877 Loading mod aai-vehicles-warden 0.5.3 (data.lua)
+   0.886 Loading mod aai-zones 0.6.4 (data.lua)
+   0.896 Loading mod actual-craft-times-remade 1.0.6 (data.lua)
+   0.904 Loading mod AfraidOfTheDark 1.1.1 (data.lua)
+   0.913 Loading mod alien-biomes-hr-terrain 0.6.1 (data.lua)
+   0.920 Loading mod boblibrary 1.1.5 (data.lua)
+   0.933 Loading mod bullet-trails 0.6.2 (data.lua)
+   0.941 Loading mod deadlock-beltboxes-loaders 2.4.2 (data.lua)
+   0.950 Loading mod DragonIndustries 1.105.1 (data.lua)
+   0.957 Loading mod Enhanced_Map_Colors 1.5.5 (data.lua)
+   0.967 Loading mod EpicArtillerySounds 1.1.1 (data.lua)
+   0.975 Loading mod even-distribution 1.0.10 (data.lua)
+   0.983 Loading mod Explosive Termites 1.1.14 (data.lua)
+   0.990 Loading mod ezlib 0.1.7 (data.lua)
+   0.998 Loading mod Factorissimo2 2.5.3 (data.lua)
+   1.019 Loading mod fast_trans 1.1.3 (data.lua)
+   1.029 Loading mod Fill4Me 0.10.0 (data.lua)
+   1.037 Loading mod flib 0.10.1 (data.lua)
+   1.046 Loading mod Flow Control 3.1.3 (data.lua)
+   1.058 Loading mod FNEI 0.4.1 (data.lua)
+   1.068 Loading mod grappling-gun 0.3.2 (data.lua)
+   1.078 Loading mod GunEquipment 0.0.16 (data.lua)
+   1.087 Loading mod helmod 0.12.9 (data.lua)
+   1.101 Loading mod Honk 5.0.0 (data.lua)
+   1.110 Loading mod Induction Charging 2.0.2 (data.lua)
+   1.120 Loading mod informatron 0.2.2 (data.lua)
+   1.130 Loading mod jetpack 0.3.5 (data.lua)
+   1.141 Loading mod Nova-Natural_Evolution_Enemies 1.1.1 (data.lua)
+   1.263 Loading mod Portals 0.7.1 (data.lua)
+   1.274 Loading mod Power Armor MK3 0.4.1 (data.lua)
+   1.287 Loading mod Quicksearch 1.1.1 (data.lua)
+   1.299 Loading mod RampantArsenal 1.1.6 (data.lua)
+   1.340 Loading mod robot_attrition 0.5.12 (data.lua)
+   1.353 Loading mod Robot_Battery_Research 0.2.1 (data.lua)
+   1.366 Loading mod SchallEndgameEvolution 1.1.1 (data.lua)
+   1.386 Loading mod Searchlight 1.1.2 (data.lua)
+   1.403 Loading mod shield-projector 0.1.5 (data.lua)
+   1.417 Loading mod stasis_mine 20.0.3 (data.lua)
+   1.431 Loading mod Todo-List 19.2.0 (data.lua)
+   1.443 Loading mod VehicleSnap 1.18.4 (data.lua)
+   1.454 Loading mod Waterfill_v17 1.1.0 (data.lua)
+   1.466 Loading mod aai-industry 0.5.19 (data.lua)
+   1.467 Script @__aai-industry__/data.lua:2: Log mods once: {
+  AfraidOfTheDark = "1.1.1",
+  ["Armor-MK4"] = "1.0.1",
+  ArmouredBiters = "1.1.5",
+  AutoDeconstruct = "0.3.3",
+  DragonIndustries = "1.105.1",
+  EndgameCombat = "1.105.1",
+  Enhanced_Map_Colors = "1.5.5",
+  EpicArtillerySounds = "1.1.1",
+  ["Explosive Termites"] = "1.1.14",
+  FNEI = "0.4.1",
+  Factorissimo2 = "2.5.3",
+  Fill4Me = "0.10.0",
+  ["Flow Control"] = "3.1.3",
+  GDIW = "1.1.0",
+  GunEquipment = "0.0.16",
+  Honk = "5.0.0",
+  ["Induction Charging"] = "2.0.2",
+  ["Kux-OrbitalIonCannon"] = "2.3.0",
+  Nightfall = "1.1.1",
+  ["Nova-Natural_Evolution_Enemies"] = "1.1.1",
+  Portals = "0.7.1",
+  ["Power Armor MK3"] = "0.4.1",
+  QuickItemSearch = "2.1.4",
+  Quicksearch = "1.1.1",
+  RampantArsenal = "1.1.6",
+  RateCalculator = "2.4.4",
+  RitnLib = "0.6.0",
+  Robot_Battery_Research = "0.2.1",
+  ["SE-PFR-fix"] = "0.0.11",
+  SchallEndgameEvolution = "1.1.1",
+  Searchlight = "1.1.2",
+  ["Squeak Through"] = "1.8.2",
+  StatsGui = "1.4.1",
+  ["Todo-List"] = "19.2.0",
+  VehicleSnap = "1.18.4",
+  Waterfill_v17 = "1.1.0",
+  YARM = "0.8.207",
+  ["aai-containers"] = "0.2.11",
+  ["aai-industry"] = "0.5.19",
+  ["aai-programmable-structures"] = "0.7.4",
+  ["aai-programmable-vehicles"] = "0.7.21",
+  ["aai-signal-transmission"] = "0.4.7",
+  ["aai-signals"] = "0.6.1",
+  ["aai-vehicles-chaingunner"] = "0.6.1",
+  ["aai-vehicles-flame-tank"] = "0.5.1",
+  ["aai-vehicles-flame-tumbler"] = "0.6.1",
+  ["aai-vehicles-hauler"] = "0.6.1",
+  ["aai-vehicles-laser-tank"] = "0.6.4",
+  ["aai-vehicles-miner"] = "0.6.4",
+  ["aai-vehicles-warden"] = "0.5.3",
+  ["aai-zones"] = "0.6.4",
+  ["actual-craft-times-remade"] = "1.0.6",
+  ["alien-biomes"] = "0.6.7",
+  ["alien-biomes-hr-terrain"] = "0.6.1",
+  base = "1.1.61",
+  boblibrary = "1.1.5",
+  ["bullet-trails"] = "0.6.2",
+  ["cargo-ships"] = "0.1.18",
+  ["cargo-ships-graphics"] = "0.1.0",
+  ["combat-mechanics-overhaul"] = "0.6.22",
+  ["deadlock-beltboxes-loaders"] = "2.4.2",
+  ["deadlock-integrations"] = "2.2.0",
+  ["equipment-gantry"] = "0.1.5",
+  ["even-distribution"] = "1.0.10",
+  ezlib = "0.1.7",
+  fast_trans = "1.1.3",
+  flib = "0.10.1",
+  ["grappling-gun"] = "0.3.2",
+  helmod = "0.12.9",
+  informatron = "0.2.2",
+  jetpack = "0.3.5",
+  ["martincitopants-space-modpack-fixed-squared"] = "0.1.4",
+  robot_attrition = "0.5.12",
+  ["se-recycling-extras"] = "0.4.0",
+  ["se-science-scale"] = "0.19.0",
+  ["seoh-fixed"] = "0.2.4",
+  ["shield-projector"] = "0.1.5",
+  simhelper = "1.1.4",
+  ["space-exploration"] = "0.6.73",
+  ["space-exploration-extra-items"] = "0.2.0",
+  ["space-exploration-graphics"] = "0.6.11",
+  ["space-exploration-graphics-2"] = "0.6.1",
+  ["space-exploration-graphics-3"] = "0.6.1",
+  ["space-exploration-graphics-4"] = "0.6.2",
+  ["space-exploration-graphics-5"] = "0.6.1",
+  ["space-exploration-menu-simulations"] = "0.6.7",
+  ["space-exploration-pipe-qol"] = "1.0.0",
+  ["space-exploration-postprocess"] = "0.6.14",
+  ["space-exploration-substation-replacement"] = "1.0.0",
+  stasis_mine = "20.0.3",
+  stdlib = "1.4.7"
+}
+   1.495 Loading mod aai-programmable-structures 0.7.4 (data.lua)
+   1.508 Loading mod alien-biomes 0.6.7 (data.lua)
+   1.747 Loading mod Armor-MK4 1.0.1 (data.lua)
+   1.763 Loading mod cargo-ships 0.1.18 (data.lua)
+   1.804 Loading mod combat-mechanics-overhaul 0.6.22 (data.lua)
+   1.811 Script @__combat-mechanics-overhaul__/collision-mask-util-extended/data/collision-mask-util-extended.lua:133: Named collision layer [flying-layer] set to layer [layer-13]
+   1.814 Script @__combat-mechanics-overhaul__/collision-mask-util-extended/data/collision-mask-util-extended.lua:133: Named collision layer [projectile-layer] set to layer [layer-15]
+   1.818 Script @__combat-mechanics-overhaul__/collision-mask-util-extended/data/collision-mask-util-extended.lua:133: Named collision layer [vehicle-layer] set to layer [layer-16]
+   1.834 Loading mod EndgameCombat 1.105.1 (data.lua)
+   1.837 Script @__DragonIndustries__/cloning.lua:5: Cloning object 'capsule/poison-capsule' into 'radiation-capsule'...
+   1.837 Script @__DragonIndustries__/cloning.lua:5: Cloning object 'projectile/poison-capsule' into 'radiation-capsule'...
+   1.837 Script @__DragonIndustries__/sprites.lua:179: Replacing sprites from 'poison-cloud' in __EndgameCombat__/projectile/radiation-capsule
+   1.837 Script @__DragonIndustries__/sprites.lua:179: Replacing sprites from 'poison-capsule' in __EndgameCombat__/projectile/radiation-capsule
+   1.837 Script @__DragonIndustries__/sprites.lua:179: Replacing sprites from 'poison-capsule' in __EndgameCombat__/capsule/radiation-capsule
+   1.837 Script @__DragonIndustries__/cloning.lua:5: Cloning object 'smoke-with-trigger/poison-cloud' into 'radiation-capsule-cloud'...
+   1.837 Script @__DragonIndustries__/cloning.lua:5: Cloning object 'smoke-with-trigger/poison-cloud-visual-dummy' into 'radiation-capsule-cloud-visual-dummy'...
+   1.837 Script @__DragonIndustries__/cloning.lua:5: Cloning object 'capsule/poison-capsule' into 'acid-capsule'...
+   1.837 Script @__DragonIndustries__/cloning.lua:5: Cloning object 'projectile/poison-capsule' into 'acid-capsule'...
+   1.837 Script @__DragonIndustries__/sprites.lua:179: Replacing sprites from 'poison-cloud' in __EndgameCombat__/projectile/acid-capsule
+   1.837 Script @__DragonIndustries__/sprites.lua:179: Replacing sprites from 'poison-capsule' in __EndgameCombat__/projectile/acid-capsule
+   1.837 Script @__DragonIndustries__/sprites.lua:179: Replacing sprites from 'poison-capsule' in __EndgameCombat__/capsule/acid-capsule
+   1.837 Script @__DragonIndustries__/cloning.lua:5: Cloning object 'smoke-with-trigger/poison-cloud' into 'acid-capsule-cloud'...
+   1.837 Script @__DragonIndustries__/cloning.lua:5: Cloning object 'smoke-with-trigger/poison-cloud-visual-dummy' into 'acid-capsule-cloud-visual-dummy'...
+   1.838 Script @__DragonIndustries__/cloning.lua:5: Cloning object 'ammo-turret/gun-turret' into 'concussion-turret'...
+   1.839 Script @__DragonIndustries__/cloning.lua:5: Cloning object 'item/gun-turret' into 'concussion-turret'...
+   1.839 Script @__DragonIndustries__/sprites.lua:136: Reparenting sprites in concussion-turret
+   1.839 Script @__DragonIndustries__/sprites.lua:136: Reparenting sprites in concussion-turret
+   1.839 Script @__DragonIndustries__/cloning.lua:5: Cloning object 'electric-turret/laser-turret' into 'plasma-turret'...
+   1.839 Script @__DragonIndustries__/cloning.lua:5: Cloning object 'item/laser-turret' into 'plasma-turret'...
+   1.839 Script @__DragonIndustries__/sprites.lua:136: Reparenting sprites in plasma-turret
+   1.839 Script @__DragonIndustries__/sprites.lua:136: Reparenting sprites in plasma-turret
+   1.839 Script @__DragonIndustries__/cloning.lua:5: Cloning object 'fluid-turret/flamethrower-turret' into 'acid-turret'...
+   1.841 Script @__DragonIndustries__/cloning.lua:5: Cloning object 'item/flamethrower-turret' into 'acid-turret'...
+   1.841 Script @__DragonIndustries__/sprites.lua:136: Reparenting sprites in acid-turret
+   1.841 Script @__DragonIndustries__/sprites.lua:136: Reparenting sprites in acid-turret
+   1.841 Script @__DragonIndustries__/cloning.lua:5: Cloning object 'fluid-turret/flamethrower-turret' into 'sticky-turret'...
+   1.844 Script @__DragonIndustries__/cloning.lua:5: Cloning object 'item/flamethrower-turret' into 'sticky-turret'...
+   1.844 Script @__DragonIndustries__/sprites.lua:136: Reparenting sprites in sticky-turret
+   1.844 Script @__DragonIndustries__/sprites.lua:136: Reparenting sprites in sticky-turret
+   1.846 Script @__DragonIndustries__/cloning.lua:5: Cloning object 'wall/stone-wall' into 'spiked-wall'...
+   1.846 Script @__DragonIndustries__/cloning.lua:5: Cloning object 'item/stone-wall' into 'spiked-wall'...
+   1.846 Script @__DragonIndustries__/cloning.lua:5: Cloning object 'wall/stone-wall' into 'tough-wall'...
+   1.846 Script @__DragonIndustries__/cloning.lua:5: Cloning object 'item/stone-wall' into 'tough-wall'...
+   1.846 Script @__DragonIndustries__/cloning.lua:5: Cloning object 'wall/stone-wall' into 'tough-spiked-wall'...
+   1.847 Script @__DragonIndustries__/cloning.lua:5: Cloning object 'item/stone-wall' into 'tough-spiked-wall'...
+   1.847 Script @__DragonIndustries__/cloning.lua:5: Cloning object 'gate/gate' into 'tough-gate'...
+   1.847 Script @__DragonIndustries__/cloning.lua:5: Cloning object 'item/gate' into 'tough-gate'...
+   1.847 Script @__DragonIndustries__/sprites.lua:136: Reparenting sprites in tough-gate
+   1.847 Script @__DragonIndustries__/sprites.lua:136: Reparenting sprites in tough-gate
+   1.847 Script @__DragonIndustries__/cloning.lua:5: Cloning object 'constant-combinator/constant-combinator' into 'dome-circuit-connection'...
+   1.867 Script @__EndgameCombat__/prototypes/armor.lua:14: Loading poison-cloud-equipment with poison-capsule , nil
+   1.867 Script @__EndgameCombat__/prototypes/armor.lua:14: Loading acid-spraying-equipment with acid-capsule , nil
+   1.867 Script @__EndgameCombat__/prototypes/armor.lua:14: Loading radiation-spraying-equipment with radiation-capsule , nil
+   1.867 Script @__DragonIndustries__/cloning.lua:5: Cloning object 'capsule/poison-capsule' into 'fire-capsule'...
+   1.867 Script @__DragonIndustries__/cloning.lua:5: Cloning object 'projectile/poison-capsule' into 'fire-capsule'...
+   1.867 Script @__DragonIndustries__/sprites.lua:179: Replacing sprites from 'poison-cloud' in __EndgameCombat__/projectile/fire-capsule
+   1.867 Script @__DragonIndustries__/sprites.lua:179: Replacing sprites from 'poison-capsule' in __EndgameCombat__/projectile/fire-capsule
+   1.867 Script @__DragonIndustries__/sprites.lua:179: Replacing sprites from 'poison-capsule' in __EndgameCombat__/capsule/fire-capsule
+   1.867 Script @__DragonIndustries__/cloning.lua:5: Cloning object 'smoke-with-trigger/poison-cloud' into 'fire-capsule-cloud'...
+   1.868 Script @__DragonIndustries__/cloning.lua:5: Cloning object 'smoke-with-trigger/poison-cloud-visual-dummy' into 'fire-capsule-cloud-visual-dummy'...
+   1.868 Script @__EndgameCombat__/prototypes/armor.lua:14: Loading fire-spraying-equipment with fire-capsule , flamethrower-ammo
+   1.875 Script @__EndgameCombat__/prototypes/research/upgrades.lua:35: Adding effect {
+  ammo_category = "concussion-turret",
+  modifier = 0.1,
+  turret_id = "concussion-turret",
+  type = "turret-attack"
+} to tech 'rampant-arsenal-technology-gun-turret-damage-1'
+   1.875 Script @__EndgameCombat__/prototypes/research/upgrades.lua:35: Adding effect {
+  ammo_category = "concussion-turret",
+  modifier = 0.1,
+  turret_id = "concussion-turret",
+  type = "turret-attack"
+} to tech 'rampant-arsenal-technology-gun-turret-damage-2'
+   1.875 Script @__EndgameCombat__/prototypes/research/upgrades.lua:35: Adding effect {
+  ammo_category = "concussion-turret",
+  modifier = 0.2,
+  turret_id = "concussion-turret",
+  type = "turret-attack"
+} to tech 'rampant-arsenal-technology-gun-turret-damage-3'
+   1.875 Script @__EndgameCombat__/prototypes/research/upgrades.lua:35: Adding effect {
+  ammo_category = "concussion-turret",
+  modifier = 0.3,
+  turret_id = "concussion-turret",
+  type = "turret-attack"
+} to tech 'rampant-arsenal-technology-gun-turret-damage-4'
+   1.875 Script @__EndgameCombat__/prototypes/research/upgrades.lua:35: Adding effect {
+  ammo_category = "concussion-turret",
+  modifier = 0.4,
+  turret_id = "concussion-turret",
+  type = "turret-attack"
+} to tech 'rampant-arsenal-technology-gun-turret-damage-5'
+   1.875 Script @__EndgameCombat__/prototypes/research/upgrades.lua:35: Adding effect {
+  ammo_category = "concussion-turret",
+  modifier = 0.4,
+  turret_id = "concussion-turret",
+  type = "turret-attack"
+} to tech 'rampant-arsenal-technology-gun-turret-damage-6'
+   1.876 Script @__EndgameCombat__/prototypes/research/upgrades.lua:35: Adding effect {
+  ammo_category = "concussion-turret",
+  modifier = 0.8,
+  turret_id = "concussion-turret",
+  type = "turret-attack"
+} to tech 'rampant-arsenal-technology-gun-turret-damage-7'
+   1.879 Script @__EndgameCombat__/turret-alerts.lua:36: Creating alert turret-health-critical
+   1.879 Script @__EndgameCombat__/turret-alerts.lua:36: Creating alert turret-health-low
+   1.879 Script @__EndgameCombat__/turret-alerts.lua:36: Creating alert turret-ammo-empty
+   1.879 Script @__EndgameCombat__/turret-alerts.lua:36: Creating alert turret-ammo-critical
+   1.879 Script @__EndgameCombat__/turret-alerts.lua:36: Creating alert turret-ammo-low
+   1.879 Script @__EndgameCombat__/turret-alerts.lua:36: Creating alert turret-fluid-empty
+   1.879 Script @__EndgameCombat__/turret-alerts.lua:36: Creating alert turret-fluid-critical
+   1.879 Script @__EndgameCombat__/turret-alerts.lua:36: Creating alert turret-fluid-low
+   1.879 Script @__EndgameCombat__/turret-alerts.lua:36: Creating alert turret-energy-empty
+   1.879 Script @__EndgameCombat__/turret-alerts.lua:36: Creating alert turret-energy-critical
+   1.879 Script @__EndgameCombat__/turret-alerts.lua:36: Creating alert turret-energy-low
+   1.896 Loading mod equipment-gantry 0.1.5 (data.lua)
+   1.915 Loading mod StatsGui 1.4.1 (data.lua)
+   1.932 Loading mod aai-programmable-vehicles 0.7.21 (data.lua)
+   1.934 Script @__aai-programmable-vehicles__/prototypes/phase-1/init-named-collision-layers.lua:9: collision_mask: flying-layer = layer-13
+   1.934 Script @__aai-programmable-vehicles__/prototypes/phase-1/init-named-collision-layers.lua:11: collision_mask: projectile-layer = layer-15
+   1.934 Script @__aai-programmable-vehicles__/prototypes/phase-1/init-named-collision-layers.lua:13: collision_mask: vehicle-layer = layer-16
+   1.955 Loading mod ArmouredBiters 1.1.5 (data.lua)
+   1.977 Loading mod space-exploration 0.6.73 (data.lua)
+   1.984 Script @__space-exploration__/collision-mask-util-extended/data/collision-mask-util-extended.lua:121: Named collision layer [empty-space-tile] set to layer [layer-17]
+   1.988 Script @__space-exploration__/collision-mask-util-extended/data/collision-mask-util-extended.lua:121: Named collision layer [space-tile] set to layer [layer-18]
+   1.993 Script @__space-exploration__/collision-mask-util-extended/data/collision-mask-util-extended.lua:121: Named collision layer [moving-tile] set to layer [layer-19]
+   1.997 Script @__space-exploration__/collision-mask-util-extended/data/collision-mask-util-extended.lua:121: Named collision layer [composite-entity-circuit-connection-layer] set to layer [layer-20]
+   2.053 Script @__space-exploration__/collision-mask-util-extended/data/collision-mask-util-extended.lua:121: Named collision layer [addon-layer] set to layer [layer-21]
+   2.152 Loading mod Kux-OrbitalIonCannon 2.3.0 (data.lua)
+   2.175 Loading mod QuickItemSearch 2.1.4 (data.lua)
+   2.196 Loading mod SE-PFR-fix 0.0.11 (data.lua)
+   2.216 Loading mod se-recycling-extras 0.4.0 (data.lua)
+   2.238 Loading mod space-exploration-extra-items 0.2.0 (data.lua)
+   2.259 Loading mod space-exploration-menu-simulations 0.6.7 (data.lua)
+   2.279 Loading mod space-exploration-postprocess 0.6.14 (data.lua)
+   2.280 Script @__space-exploration-postprocess__/data.lua:4: nil
+   2.299 Loading mod YARM 0.8.207 (data.lua)
+   2.322 Loading mod RateCalculator 2.4.4 (data.lua)
+   2.344 Loading mod seoh-fixed 0.2.4 (data.lua)
+   2.345 Error ModManager.cpp:1558: Failed to load mod "seoh-fixed": __seoh-fixed__/prototypes/recipe/resources.lua:18: attempt to index local 'rcp' (a nil value)
+stack traceback:
+	__seoh-fixed__/prototypes/recipe/resources.lua:18: in main chunk
+	[C]: in function 'require'
+	__seoh-fixed__/data.lua:1: in main chunk
+   2.346 Loading mod core 0.0.0 (data.lua)
+   2.469 Checksum for core: 1476961332
+   2.515 Error ModManager.cpp:1558: Error in assignID: recipe-category with name 'crafting' does not exist.
+
+Source: default (utility-sprites).
+   2.609 Initial atlas bitmap size is 16384
+   2.611 Created atlas bitmap 2048x640 [icon, not-compressed, mipmap, linear-minification, linear-magnification, linear-mip-level]
+   2.611 Created virtual atlas pages 4096x4096x0
+   2.617 Texture processor created (2048). GPU accelerated compression Supported: yes, Enabled: yes/yes. Test passed. YCoCgDXT PSNR: 35.83, BC3 PSNR: 33.82
+   2.626 Parallel Sprite Loader initialized (threads: 0)
+   2.652 Sprites loaded
+   2.663 Generated mipmaps (5) for atlas [0] of size 2048x640   
+   2.663 Custom mipmaps uploaded.
+   2.666 Factorio initialised

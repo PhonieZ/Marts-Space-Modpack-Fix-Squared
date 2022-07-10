@@ -1,0 +1,4 @@
+For a first time install, install this pack via the in-game mod manager. Next, the steps that follow applies to old and new installs of this pack, place the 2 mods in this folder in your
+Factorio mods folder, and upon loading into the game, enable these versions of the Space Exploration and Space Exploration Postprocess. After, restart your game to apply
+these changes, and load into whatever saves you are going to play on, do not sync changes. Finally, after you have done this, you should be able to re-enable the newer
+verions of the Space Exploration and Space Exploration Postprocess mods, and house waterfilling should work as normal.
