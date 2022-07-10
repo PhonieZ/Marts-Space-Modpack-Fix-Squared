@@ -6,7 +6,7 @@ As of July 10th, 2022, Space Exploration Simplified (Fixed) and Endgame Combat h
 This fix no longer works, however, I am working on a better alternative.
 
 
-If you need to update to Space Exploration 0.6.x, got to the link below for a guide, and go to the link above if house waterfilling isn't working for you:
+If you need to update to Space Exploration 0.6.x, go to the link below for a guide, and go to the link above if house waterfilling isn't working for you:
 https://spaceexploration.miraheze.org/wiki/Updating_to_Space_Exploration_v0.6.x
 
 Finally, big credits to Slikk for making the Seoh fix:
