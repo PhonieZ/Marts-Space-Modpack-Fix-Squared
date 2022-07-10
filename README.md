@@ -1,4 +1,4 @@
-# Marts-Space-Modpack-Seoh-Fix-Squared
+# Marts-Space-Modpack-Fix-Squared
 This is a version of Martincitopants' Space Modpack, which fixes the dependency error that the Seoh fix, and original modpack both have, fixes house waterfilling not working, and also adds some extra QOL mods, these being YARM and FNEI. ~~Furthermore, this still includes the Space Exploration Simplified fix, which is also present in the Seoh fix.~~
 As of July 10th, 2022, Space Exploration Simplified (Fixed) and Endgame Combat have been removed due to Space Exploration 0.6.x incompatibility, and will not be replaced until these issues have been resolved.
 
