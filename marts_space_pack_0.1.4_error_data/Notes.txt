@@ -1,3 +1,0 @@
-https://mods.factorio.com/mod/seoh-fixed Error obtained with all mods enabled.
-https://mods.factorio.com/mod/EndgameCombat Error obtained with seoh-fixed disabled only.
-Errors were gathered on a clean mod install with version 0.1.4 of Mart's Space Pack.
