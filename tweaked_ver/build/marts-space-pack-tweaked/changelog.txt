@@ -1,0 +1,5 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 2022.10.08
+  Changes:
+    - Initial creation of this derivative of Mart's Space Pack
