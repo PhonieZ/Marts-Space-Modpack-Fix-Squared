@@ -7,8 +7,5 @@ entity-waterfilling-re-enabled (House Waterfilling Fix),beautiful_bridge_railway
 LogisticTrainNetwork,Deadlock-AAII-bridge,Deadlock-SE-bridge,Flare Stack,FlareStack-SE,textplates,
 WideChests_AAI_Containers_Fix,More-Exoskeletons,Personal-Roboport-Mk3,SE-no-pollution-in-space
 
-Mods I Recommend To Add, But Change Original Pack Too Much:
-Avatars (Really useful for space stuff, check it out)
-
 Note: The above mod additions were informed by me actually doing a playthrough of this pack
 (still going), and I felt as if they worked well in this pack, so I added them.
